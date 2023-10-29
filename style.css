@@ -6,7 +6,7 @@
 }
 
 .container {
-    width: 100%;
+    width: 101%;
     height: 100vh;
     background: rgb(20, 74, 139);
     display: flex;
